@@ -12,7 +12,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         # Sphinx 最新版に揃える
-        'docutils>=0.18,<0.20'
+        'docutils>=0.18,<0.21'
     ],
     entry_points="""
         [console_scripts]
